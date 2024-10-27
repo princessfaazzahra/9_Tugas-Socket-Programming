@@ -2,6 +2,7 @@
 Tugas UDP Socket Programming by Team Labschool :
 
 Princessfa Azzahra Alvin / 18223044
+
 Fhatika Adhalisman Ryanjani / 18223062
 
 
@@ -11,6 +12,7 @@ Sebelum menjalankan program, pastikan pada laptop ataupun komputer, pengaturan f
 Langkah- langkah pengujian program adalah sebagai berikut : 
 
 Menjalankan server
+
 1.1 Pastikan server.py dan client.py berada dalam folder yang sama
 
 1.2 Pastikan laptop client dan server terhubung pada jaringan yang sama
@@ -24,6 +26,8 @@ Menjalankan server
 
 
 Menjalankan client
+
+
 2.1 Pastikan server.py dan client.py berada dalam folder yang sama
 
 2.2 Pastikan laptop client dan server terhubung pada jaringan yang sama
@@ -42,6 +46,7 @@ pastikan client kedua memiliki port yang berbeda
 
 
 Pengujian chatroom
+
 
 3.1 Setelah client pertama berhasil terhubung, ketika client kedua baru terhubung maka 
 pada aplikasi roomchat client pertama akan ada notifikasi bahwa client 2 sudah hadir
