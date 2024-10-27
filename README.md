@@ -1,7 +1,7 @@
 # 9_Tugas-Socket-Programming
 Tugas UDP Socket Programming by Team Labschool
 
-# # Guide untuk menjalankan program Labschool Bos Roomchat
+# Guide untuk menjalankan program Labschool Bos Roomchat
 Sebelum menjalankan program, pastikan pada laptop ataupun komputer, pengaturan firewall sudah mengizinkan koneksi UDP pada port yang akan digunakan, untuk menjalankan Labschool Bos Roomchat, port yang sudah ditambahkan pada rules firewall adalah 8080 dan 5000-5010. Terakhir, sebelum menjalankan aplikasi pastikan bahwa jaringan internet stabil untuk memastikan komunikasi UDP antara server dan client berjalan dengan lancar.
 
 Langkah- langkah pengujian program adalah sebagai berikut : 
